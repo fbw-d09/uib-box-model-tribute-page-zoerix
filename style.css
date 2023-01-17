@@ -19,11 +19,10 @@ h2 {
     left: 35%;
     color: #F8EF1D;
     padding: 30px;
-    ;
     border-radius: 30%;
     box-sizing: border-box;
     background-color: #5B2E0A;
-
+    margin: 0 auto;
 }
 
 .content ul li {
@@ -42,7 +41,7 @@ h2 {
     opacity: 0.5;
     color: #5B2E0A;
     border-radius: 5%;
-    padding:5px ;
+    padding: 5px;
 }
 
 aside {
